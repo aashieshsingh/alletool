@@ -82,7 +82,7 @@ const tools = computed<ToolCategory[]>(() => [
           <div>
             © {{ new Date().getFullYear() }}
             <c-link target="_blank" rel="noopener" href="https://github.com/aashieshsingh">
-              Corentin Thomasset
+              Aashiesh Singh
             </c-link>
           </div>
         </div>
